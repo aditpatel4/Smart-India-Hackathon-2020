@@ -6,10 +6,6 @@ The project included both **UI/UX design using Figma** and a functional **React 
 
 ---
 
-![Figma App Screenshot](./Figma%20Prototype.png)
-
----
-
 ## 📚 About the Project
 
 ✅ Designed a mobile app interface for EV booking, including user authentication, vehicle selection, booking management, and payment flows.
@@ -19,6 +15,11 @@ The project included both **UI/UX design using Figma** and a functional **React 
 ✅ Collaborated on **UI/UX design in Figma**, iterating on user journeys, screen layouts, and visual design.
 
 ✅ Focused on clean, intuitive interfaces for seamless EV booking experience.
+
+---
+
+## 📷 Screenshots
+![Figma App Screenshot](./Figma%20Prototype.png)
 
 ---
 
